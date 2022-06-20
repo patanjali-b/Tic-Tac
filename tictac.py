@@ -69,7 +69,7 @@ def win(A,c1,c2):
     return 
 
 D = {}
-p1 = input("ENter Player-1's name :- ")
+p1 = input("Enter Player-1's name :- ")
 c1 = input("What Do you want as your card? X - O :- ")
 p2 = input("Enter Player-2's name :- ")
 if c1 == "X":
